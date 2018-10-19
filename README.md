@@ -1,1 +1,5 @@
-# Senior_Research_Project
+# Senior Research Project
+---
+
+My senior research project is on internal and external network security with a specific focus into stealth port scanning, the methods used to execute them, and the methods used to detect them. I will ideally seek to improve configuration changes to existing Intrusion Detection Systems (IDS) and compare the viability of a host-based versus a network based IDS. 
+In support of these goals, I will create sub-tools that will perform the needed tasks to make a more realistic environment in which to execute this research. Chief among these tools will be a traffic generator, which will reside on each host in my virtual research lab and generate traffic that would likely be seen on a small network, such as HTTP/HTTPS, FTP, DNS, DHCP, ARP, and a number of other protocols.
